@@ -1,6 +1,9 @@
 # TWANG
 A Arduino-based, 1D, LED loving, dungeon crawler. inspired by Line Wobbler by Robin B
 
+**This fork runs on the FabLab München TWANG installation.**
+The README below describes the original game, but is still mostly correct.
+
 ## Video playlist
 A playlist that shows the development of TWANG and the game in both a desktop and house-sized form can be found here: https://www.youtube.com/watch?v=9yf_VINmbTE&list=PL1_Z89_x_Dff-XhOxlx6sQ38wJqe1X2M0
 
